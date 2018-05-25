@@ -7,3 +7,9 @@ A collection of papers of deep learning and differential privacy
 # Generate synthetic data
   1. GAN
   2. Auxiliary Classifier GANs: https://arxiv.org/pdf/1610.09585.pdf#
+  
+# Tutorials
+  1. https://www.youtube.com/watch?v=dGVEtq34jTU
+  
+# Differential privacy with Deep Learning
+
