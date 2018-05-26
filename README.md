@@ -13,3 +13,8 @@ A collection of papers of deep learning and differential privacy
   
 # Differential privacy with Deep Learning
 
+# Different Deep Learning Architectures With Implementations
+  1. Variational Autoencoder (VAE)
+    - Paper: https://arxiv.org/pdf/1312.6114v10.pdf
+    - Code: https://github.com/y0ast/VAE-TensorFlow
+
