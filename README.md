@@ -16,3 +16,8 @@ A collection of machine learning papers.
 
 1. Natural Gradient Works Efficiently in Learning http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.452.7280&rep=rep1&type=pdf
 2. Stochastic optimization (Monros) https://pdfs.semanticscholar.org/34dd/d8865569c2c32dec9bf7ffc817ff42faaa01.pdf
+
+
+# Variational Inference
+
+1. Blackbox VI https://arxiv.org/pdf/1401.0118.pdf
