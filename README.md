@@ -23,3 +23,4 @@ A collection of machine learning papers.
 1. Blackbox VI https://arxiv.org/pdf/1401.0118.pdf
 2. Blei VI tutorial http://www.cs.columbia.edu/~blei/talks/Blei_VI_tutorial.pdf
     - Inference networks: http://edwardlib.org/tutorials/inference-networks
+3. NIPS 2016 VI tutorial https://media.nips.cc/Conferences/2016/Slides/6199-Slides.pdf, https://www.youtube.com/watch?v=ogdv_6dbvVQ
