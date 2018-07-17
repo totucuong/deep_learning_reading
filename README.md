@@ -21,3 +21,4 @@ A collection of machine learning papers.
 # Variational Inference
 
 1. Blackbox VI https://arxiv.org/pdf/1401.0118.pdf
+2. Blei VI tutorial http://www.cs.columbia.edu/~blei/talks/Blei_VI_tutorial.pdf
