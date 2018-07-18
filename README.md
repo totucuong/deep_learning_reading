@@ -28,3 +28,4 @@ A collection of machine learning papers.
 # Tips and Tricks.
 
 1. VAE with Gaussian observation https://www.reddit.com/r/MachineLearning/comments/4eqifs/gaussian_observation_vae/
+  - https://github.com/y0ast/VAE-Torch/blob/master/GaussianCriterion.lua
