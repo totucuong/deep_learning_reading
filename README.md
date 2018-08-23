@@ -36,3 +36,6 @@ A collection of machine learning papers.
 # Gradient Estimators
 1. https://pytorch.org/docs/stable/distributions.html#
 2. https://arxiv.org/abs/1506.05254
+
+# Documents
+1. https://learningtensorflow.com/lesson2/
