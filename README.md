@@ -29,6 +29,8 @@ A collection of machine learning papers.
 
 1. VAE with Gaussian observation https://www.reddit.com/r/MachineLearning/comments/4eqifs/gaussian_observation_vae/
   - https://github.com/y0ast/VAE-Torch/blob/master/GaussianCriterion.lua
+2. https://blog.keras.io/keras-as-a-simplified-interface-to-tensorflow-tutorial.html
+3. https://www.tensorflow.org/tutorials/eager/custom_training_walkthrough
 
 # Losses
 1. http://ml-cheatsheet.readthedocs.io/en/latest/loss_functions.html
