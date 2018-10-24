@@ -38,4 +38,4 @@ A collection of machine learning papers.
 
 # Gradient Estimators
 1. https://pytorch.org/docs/stable/distributions.html#
-2. https://arxiv.org/abs/1506.05254
+2. Gradient Estimation Using Stochastic Computation Graphs https://arxiv.org/abs/1506.05254
