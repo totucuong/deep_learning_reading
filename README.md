@@ -28,10 +28,10 @@ A collection of machine learning papers.
 # Tips and Tricks.
 
 1. VAE with Gaussian observation https://www.reddit.com/r/MachineLearning/comments/4eqifs/gaussian_observation_vae/
-  - https://github.com/y0ast/VAE-Torch/blob/master/GaussianCriterion.lua
-2. https://blog.keras.io/keras-as-a-simplified-interface-to-tensorflow-tutorial.html
-3. https://www.tensorflow.org/tutorials/eager/custom_training_walkthrough
-4. https://cs224d.stanford.edu/lectures/CS224d-Lecture7.pdf
+2. https://github.com/y0ast/VAE-Torch/blob/master/GaussianCriterion.lua
+3. https://blog.keras.io/keras-as-a-simplified-interface-to-tensorflow-tutorial.html
+4. https://www.tensorflow.org/tutorials/eager/custom_training_walkthrough
+5. https://cs224d.stanford.edu/lectures/CS224d-Lecture7.pdf
 
 # Losses
 1. http://ml-cheatsheet.readthedocs.io/en/latest/loss_functions.html
@@ -39,6 +39,3 @@ A collection of machine learning papers.
 # Gradient Estimators
 1. https://pytorch.org/docs/stable/distributions.html#
 2. https://arxiv.org/abs/1506.05254
-
-# Documents
-1. https://learningtensorflow.com/lesson2/
