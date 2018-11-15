@@ -2,7 +2,6 @@ A collection of machine learning papers.
 
 # Books and slides:
   1. http://mbmlbook.com
-  2. https://wiki.inf.ed.ac.uk/twiki/pub/MLforNLP/WebHome/bkj-VBwalkthrough.pdf
 
 # Deep Learning Review
   1. Excelence review with NN architecture graphics: http://www.asimovinstitute.org/neural-network-zoo/
@@ -24,6 +23,8 @@ A collection of machine learning papers.
 2. Blei VI tutorial http://www.cs.columbia.edu/~blei/talks/Blei_VI_tutorial.pdf
     - Inference networks: http://edwardlib.org/tutorials/inference-networks
 3. NIPS 2016 VI tutorial https://media.nips.cc/Conferences/2016/Slides/6199-Slides.pdf, https://www.youtube.com/watch?v=ogdv_6dbvVQ
+4. https://wiki.inf.ed.ac.uk/twiki/pub/MLforNLP/WebHome/bkj-VBwalkthrough.pdf
+
 
 ### Gradient Estimators
 1. https://pytorch.org/docs/stable/distributions.html#
