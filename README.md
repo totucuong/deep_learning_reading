@@ -1,7 +1,8 @@
 A collection of machine learning papers.
 
-# Books:
+# Books and slides:
   1. http://mbmlbook.com
+  2. https://wiki.inf.ed.ac.uk/twiki/pub/MLforNLP/WebHome/bkj-VBwalkthrough.pdf
 
 # Deep Learning Review
   1. Excelence review with NN architecture graphics: http://www.asimovinstitute.org/neural-network-zoo/
