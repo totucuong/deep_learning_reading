@@ -11,6 +11,7 @@ A collection of machine learning papers.
   5. Variational Autoencoder (VAE)
     - Paper: https://arxiv.org/pdf/1312.6114v10.pdf
     - Code: https://github.com/y0ast/VAE-TensorFlow
+  6. https://spinningup.openai.com/en/latest/spinningup/keypapers.html
 
 # Classical papers:
 
